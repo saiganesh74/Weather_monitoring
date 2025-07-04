@@ -43,11 +43,19 @@ API_KEY = "your_openweather_api_key_here"
 ```py
  python3 app.py
 ```
+---
+
+## License 
+This project is licensed under the [MIT License](LICENSE) © 2025 AQI.
+
+---
 
 ## Contributors
 1. Sai Ganesh Rejeti 
 1. S Lakshith Pillay 
 1. Guna Sai 
+
+---
 
 ## Contributions
 Pull requests and suggestions are welcome. If you'd like to contribute, please fork the repo and submit a PR.
